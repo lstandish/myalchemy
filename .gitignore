@@ -1,2 +1,7 @@
 fabfile.py
 publishconf.py
+output/
+srv.pid
+*.pyc
+.users.yml
+pelican-env
