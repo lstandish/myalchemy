@@ -1,5 +1,5 @@
 Title: About My Site
-#Modified: 2010-12-05 19:30
+Modified: 2010-12-05 19:30
 Tags: pelican, publishing
 Category: General
 Slug: about
