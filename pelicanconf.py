@@ -51,7 +51,7 @@ DISPLAY_PAGES_ON_MENU = True
 # need to declare directories containing such files in following setting
 PAGE_PATHS = ['pages']
 ARTICLE_PATHS = ['articles']
-STATIC_PATHS = [ 'images', 'pdfs' ]
+STATIC_PATHS = [ 'admin', 'images', 'pdfs' ]
 # folder "images" is included by default
 
 # if there is a need to mix static files and source files  in the same directory,
