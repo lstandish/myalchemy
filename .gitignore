@@ -5,3 +5,4 @@ srv.pid
 *.pyc
 .users.yml
 pelican-env
+pip-selfcheck.json
