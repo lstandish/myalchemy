@@ -1,6 +1,6 @@
 backend:
     name: github
-    repo: lstandish/myaclchemy # Change this to your repo
+    repo: lstandish/myalchemy # Change this to your repo
     branch: master
 
 #publish_mode: editorial_workflow
